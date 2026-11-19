@@ -1,7 +1,8 @@
 # SoC-FPGA-Showcase
-A showcase of some of my contributions to firmware on Husky Robotics Instrumentation's Efinix Sapphire Ti375 SoC FPGA. Includes documentation of C-code, some RTL, and system integration decisions.
+This is a showcase of some of my contributions to firmware on Husky Robotics Instrumentation's Efinix Sapphire Ti375 SoC FPGA. Includes documentation of C-code, some RTL, and system integration decisions.
 
-I'd recommend taking a look at the general overview, then the individual blocks. Thank you for looking at my work.
+I'd recommend taking a look at the general overview, then the individual blocks. Thank you for taking a looking at my work.
+
 ## General Overview:
 <img width="1491" height="354" alt="Screenshot 2026-11-18 230448" src="https://github.com/user-attachments/assets/0cf2f76d-663b-466e-aca2-7c0d83c8dfc8" />                                        
 1. camera.c: programs the PiCam's registers over I2C for a generic 1080p stream at 30FPS
